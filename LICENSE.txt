@@ -1,0 +1,18 @@
+
+
+	Godot Dev Blocks
+
+	Created by Manonox (manonox.com)
+	Creation date: 15-08-2022
+
+			------------------------------
+
+	License: (Creative Commons Zero, CC0)
+	http://creativecommons.org/publicdomain/zero/1.0/
+
+	This content is free to use in personal, educational and commercial projects.
+
+			------------------------------
+
+	Website:  https://manonox.com/
+
