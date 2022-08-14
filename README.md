@@ -27,7 +27,7 @@ package that also contains vectors.
 - Navigate to the **AssetLib** tab at the top of the editor and search for
   "kenney prototype textures".
 - Install the
-  [*Dev Blocks*](https://godotengine.org/asset-library/asset/780)
+  [*Dev Blocks*](https://godotengine.org/asset-library/asset/6220)
   plugin. Keep all files checked during installation.
 - Blocks are now available in `addons/devblocks/blocks`.
 
