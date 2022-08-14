@@ -1,0 +1,9 @@
+# Godot 4+ specific ignores
+.godot/
+
+# Content addon stuff
+project.godot
+*.import
+
+# DevBlocks stuff
+addons/devblocks/demo/
