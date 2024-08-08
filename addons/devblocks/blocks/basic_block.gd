@@ -69,7 +69,7 @@ func _update_mesh() -> void:
 	var texture_i : int = block_style + 1
 	var texture_i_str : String = ("0" if texture_i < 10 else "") + str(texture_i)
 	var texture_name := "texture_" + texture_i_str
-	var texture_folder := _devblock_color_to_foldername[block_color_group]
+	var texture_folder : String = _devblock_color_to_foldername[block_color_group]
 	var full_texture_path := _base_texture_folder + texture_folder + "/" + texture_name + ".png"
 	var texture : Resource = load(full_texture_path)
 	if not (texture is Texture):
